@@ -1,4 +1,4 @@
-<h2 align="left">Hello!👋, I'm Pranay, a Nepali student with an ambition to learn and develop new ideas into reality:</h2>
+<h2 align="left">Hello!👋, I'm Pranay, actively focused on growing a versatile technical skillset with hands-on experience in full-stack development and data analytics. :</h2>
 
 ###
 
