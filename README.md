@@ -184,7 +184,7 @@
 <br/>
 
 <img height="180em" src="https://github-readme-stats-lilac-seven-59.vercel.app/api?username=Pranay0702&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=dark&bg_color=0d0d0d&title_color=EF9F27&icon_color=1D9E75&text_color=d4a84b&border_color=EF9F27"/>
-<img height="180em" src="https://github-readme-stats-lilac-seven-59.vercel.app/api/top-langs/?username=Pranay0702&layout=compact&langs_count=8&hide_border=false&theme=dark&bg_color=0d0d0d&title_color=EF9F27&text_color=d4a84b&border_color=EF9F27"/>
+<img height="180em" src="https://github-readme-stats-lilac-seven-59.vercel.app/api/top-langs/?username=Pranay0702&layout=compact&langs_count=8&hide_border=false&theme=dark&bg_color=0d0d0d&title_color=EF9F27&text_color=d4a84b&border_color=EF9F27&hide=jupyter%20notebook,assembly,html,css&count_private=true"/>
 
 <br/><br/>
 
@@ -192,7 +192,7 @@
 
 <br/><br/>
 
-[<img src="https://github-profile-trophy.vercel.app/?username=Pranay0702&theme=monokai&column=6&margin-w=8&no-bg=true" width="95%"/>](https://github-profile-trophy.vercel.app/?username=Pranay0702&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10)
+<img src="https://github-profile-trophy.vercel.app/?username=Pranay0702&theme=gitdimmed&column=6&margin-w=8&no-bg=true&no-frame=true" width="95%"/>
 
 </div>
 
