@@ -8,10 +8,12 @@
 
 <br/>
 
-![](https://img.shields.io/badge/-FULL--STACK_ENGINEER-EF9F27?style=flat-square&labelColor=0d0d0d&color=EF9F27&logoColor=white)
+![](https://img.shields.io/badge/-FULL--STACK_ENGINEER-EF9F27?style=flat-square&labelColor=0d0d0d&color=EF9F27)
 ![](https://img.shields.io/badge/-KATHMANDU%2C_NEPAL-1D9E75?style=flat-square&labelColor=0d0d0d&color=1D9E75)
 ![](https://img.shields.io/badge/-1%2B_YEAR_EXPERIENCE-EF9F27?style=flat-square&labelColor=0d0d0d&color=EF9F27)
 ![](https://img.shields.io/badge/-OPEN_TO_COLLABORATE-1D9E75?style=flat-square&labelColor=0d0d0d&color=1D9E75)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-shakya-bb9953373/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakyapranay7@gmail.com)
@@ -34,10 +36,11 @@
 │   HANDLE    ›  Pranay0702                                        │
 │   ROLE      ›  Software Engineer                                 │
 │   JOURNEY   ›  Intern (3 months) ──► Full-Time Engineer          │
-│   LOCATION  ›  Kathmandu, Nepal  🇳🇵                             │
+│   LOCATION  ›  Kathmandu, Nepal                                  │
 │   FOCUS     ›  Full-Stack Development  |  Data Analytics         │
-│   STACK     ›  MERN  |  Spring Boot  |  Java  |  Python          │
+│   STACK     ›  MERN  |  Spring Boot  |  Java  |  .NET  |  KMP   │
 │   DATABASE  ›  PostgreSQL  |  MySQL  |  MongoDB                  │
+│   BUILD     ›  Maven  |  Gradle                                  │
 │   STATUS    ›  Building  ·  Learning  ·  Growing                 │
 │   UPCOMING  ›  Personal portfolio website                        │
 │                                                                  │
@@ -45,8 +48,9 @@
 ```
 
 > Full-stack software engineer with 1+ year of professional experience building production-grade
-> web applications. Started as an intern and converted to full-time in under 3 months. Passionate
-> about clean architecture, scalable systems, and writing code that matters.
+> web applications. Started as an intern and converted to full-time in under 3 months. Experienced
+> across the JVM ecosystem (Java, Kotlin, Spring Boot), MERN stack, .NET/MAUI, and Kotlin
+> Multiplatform. Passionate about clean architecture, scalable systems, and writing code that matters.
 
 ---
 
@@ -56,7 +60,7 @@
 
 <div align="center">
 
-### RentHub &nbsp;·&nbsp; `ACTIVE`
+### RentHub &nbsp;&nbsp; ![](https://img.shields.io/badge/ACTIVE-1D9E75?style=flat-square&labelColor=0d0d0d)
 
 </div>
 
@@ -71,14 +75,14 @@
 
 <div align="center">
 
-### VehicleX &nbsp;·&nbsp; `ACTIVE`
+### VehicleX &nbsp;&nbsp; ![](https://img.shields.io/badge/ACTIVE-1D9E75?style=flat-square&labelColor=0d0d0d)
 
 </div>
 
 ```
-  Vehicle marketplace application with smart filtering,
-  listing management, and clean UI. Separate backend (Spring Boot
-  REST API) and frontend (React) with PostgreSQL persistence.
+  Vehicle marketplace with smart filtering, listing management,
+  and a clean UI. Separate Spring Boot REST API backend and
+  React frontend with PostgreSQL persistence.
 
   Stack  ›  Spring Boot  ·  React  ·  PostgreSQL  ·  pgAdmin
   Type   ›  Full-Stack  |  Separate Frontend & Backend Repos
@@ -86,14 +90,14 @@
 
 <div align="center">
 
-### [Proxima](https://github.com/Pranay0702/Proxima) &nbsp;·&nbsp; `COMPLETE`
+### [Proxima](https://github.com/Pranay0702/Proxima) &nbsp;&nbsp; ![](https://img.shields.io/badge/COMPLETE-EF9F27?style=flat-square&labelColor=0d0d0d)
 
 </div>
 
 ```
   Professional networking platform — "Where Professionals Connect."
   Full-stack TypeScript app with Node.js + MongoDB REST API backend
-  and a React frontend. Features user profiles, connections & feed.
+  and a React frontend. Features profiles, connections & feed.
 
   Stack  ›  TypeScript  ·  Node.js  ·  MongoDB  ·  React  ·  CSS
   Repo   ›  github.com/Pranay0702/Proxima
@@ -101,14 +105,14 @@
 
 <div align="center">
 
-### [MovieHeram](https://github.com/Pranay0702/MovieHeram) &nbsp;·&nbsp; `COLLABORATIVE`
+### [MovieHeram](https://github.com/Pranay0702/MovieHeram) &nbsp;&nbsp; ![](https://img.shields.io/badge/COLLABORATIVE-888780?style=flat-square&labelColor=0d0d0d)
 
 </div>
 
 ```
   Full-stack movie streaming platform with a rich catalog UI.
-  Collaborative project — worked with the team on core features
-  and Java backend integration.
+  Collaborative project — contributed to core features and
+  Java/Spring Boot backend integration.
 
   Stack  ›  Java  ·  Spring Boot
   Repo   ›  github.com/Pranay0702/MovieHeram
@@ -118,27 +122,32 @@
 
 ## `> cat ./skills.json`
 
-<br/>
-
 <div align="center">
+
+<br/>
 
 **— LANGUAGES —**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <br/>
 
-**— FRAMEWORKS & LIBRARIES —**
+**— FRAMEWORKS & PLATFORMS —**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -152,13 +161,15 @@
 
 <br/>
 
-**— TOOLS & DEVOPS —**
+**— BUILD & TOOLS —**
 
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
@@ -172,8 +183,8 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranay0702&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=dark&bg_color=0d0d0d&title_color=EF9F27&icon_color=1D9E75&text_color=d4a84b&border_color=EF9F27"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay0702&layout=compact&langs_count=8&hide_border=false&theme=dark&bg_color=0d0d0d&title_color=EF9F27&text_color=d4a84b&border_color=EF9F27"/>
+<img height="180em" src="https://github-readme-stats-lilac-seven-59.vercel.app/api?username=Pranay0702&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=dark&bg_color=0d0d0d&title_color=EF9F27&icon_color=1D9E75&text_color=d4a84b&border_color=EF9F27"/>
+<img height="180em" src="https://github-readme-stats-lilac-seven-59.vercel.app/api/top-langs/?username=Pranay0702&layout=compact&langs_count=8&hide_border=false&theme=dark&bg_color=0d0d0d&title_color=EF9F27&text_color=d4a84b&border_color=EF9F27"/>
 
 <br/><br/>
 
@@ -210,6 +221,7 @@
 ║  ACTIVE  ›  Deepening Spring Boot microservices architecture ║
 ║  ACTIVE  ›  Building personal portfolio website              ║
 ║  ACTIVE  ›  Strengthening TypeScript & system design skills  ║
+║  ACTIVE  ›  Exploring KMP for cross-platform mobile dev      ║
 ║  ACTIVE  ›  Exploring cloud deployment (AWS / Railway)       ║
 ║  OPEN    ›  Available to collaborate on impactful projects   ║
 ╚══════════════════════════════════════════════════════════════╝
