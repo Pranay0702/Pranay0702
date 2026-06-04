@@ -192,7 +192,7 @@
 
 <br/><br/>
 
-[<img src="https://github-profile-trophy.vercel.app/?username=Pranay0702&theme=gitdimmed&no-frame=false&column=6&margin-w=10" width="95%"/>](https://github-profile-trophy.vercel.app/?username=Pranay0702&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10)
+[<img src="https://github-profile-trophy.vercel.app/?username=Pranay0702&theme=monokai&column=6&margin-w=8&no-bg=true" width="95%"/>](https://github-profile-trophy.vercel.app/?username=Pranay0702&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10)
 
 </div>
 
@@ -233,18 +233,6 @@
 
 <div align="center">
 
-<br/>
-
-| Platform | Handle | Link |
-|----------|--------|------|
-| LinkedIn | Pranay Shakya | [linkedin.com/in/pranay-shakya-bb9953373](https://www.linkedin.com/in/pranay-shakya-bb9953373/) |
-| Gmail | shakyapranay7 | [shakyapranay7@gmail.com](mailto:shakyapranay7@gmail.com) |
-| Instagram | _pranay.shakya_ | [instagram.com/_pranay.shakya_](https://www.instagram.com/_pranay.shakya_/) |
-| Facebook | pranay.shakya.10 | [facebook.com/pranay.shakya.10](https://www.facebook.com/pranay.shakya.10/) |
-| Portfolio | Coming soon | [your-portfolio.com](https://your-portfolio.com) |
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-shakya-bb9953373/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakyapranay7@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pranay.shakya_/)
@@ -259,7 +247,7 @@
 
 ```
  ┌────────────────────────────────────────────────────────────────┐
- │  "First, solve the problem. Then, write the code."            │
+ │  "First, solve the problem. Then, write the code."             │
  │                                          — John Johnson        │
  └────────────────────────────────────────────────────────────────┘
 ```
