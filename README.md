@@ -29,17 +29,17 @@
 ## `> whoami`
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   NAME      ›  Pranay Shakya                                     │
-│   ROLE      ›  Software Engineer                                 │
-│   JOURNEY   ›  Intern (3 months) ──► Full-Time Engineer          │
-│   LOCATION  ›  Kathmandu, Nepal                                  │
-│   STACK     ›  MERN  |  Spring Boot  |  Java  |  .NET  |  KMP   │
-│   DATABASE  ›  PostgreSQL  |  MySQL  |  MongoDB                  │
-│   STATUS    ›  Building  ·  Learning  ·  Growing                 │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+     ┌──────────────────────────────────────────────────────────────────┐
+     │                                                                  │
+     │   NAME      ›  Pranay Shakya                                     │
+     │   ROLE      ›  Software Engineer                                 │
+     │   JOURNEY   ›  Intern (3 months) ->  Full-Time Engineer          │
+     │   LOCATION  ›  Kathmandu, Nepal                                  │
+     │   STACK     ›  MERN  |  Spring Boot  |  Java  |  .NET  |  KMP    │
+     │   DATABASE  ›  PostgreSQL  |  MySQL  |  MongoDB                  │
+     │   STATUS    ›  Building  ·  Learning  ·  Growing                 │
+     │                                                                  │
+     └──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
