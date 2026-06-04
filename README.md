@@ -38,7 +38,7 @@
 │   JOURNEY   ›  Intern (3 months) ──► Full-Time Engineer          │
 │   LOCATION  ›  Kathmandu, Nepal                                  │
 │   FOCUS     ›  Full-Stack Development  |  Data Analytics         │
-│   STACK     ›  MERN  |  Spring Boot  |  Java  |  .NET  |  KMP   │
+│   STACK     ›  MERN  |  Spring Boot  |  Java  |  .NET  |  KMP    │
 │   DATABASE  ›  PostgreSQL  |  MySQL  |  MongoDB                  │
 │   BUILD     ›  Maven  |  Gradle                                  │
 │   STATUS    ›  Building  ·  Learning  ·  Growing                 │
@@ -67,9 +67,9 @@
 ```
   Property rental platform built end-to-end from scratch.
   Users can list properties, search with filters, and manage
-  rental bookings — full MERN stack with RESTful API backend.
+  rental bookings. A full stack web application with RESTful API backend.
 
-  Stack  ›  React  ·  Node.js  ·  Express  ·  MongoDB
+  Stack  ›  Spring Boot  · React ·  Bootstrap  ·  PostgreSql
   Type   ›  Full-Stack Web Application
 ```
 
@@ -81,10 +81,10 @@
 
 ```
   Vehicle marketplace with smart filtering, listing management,
-  and a clean UI. Separate Spring Boot REST API backend and
-  React frontend with PostgreSQL persistence.
+  and a clean UI. Separate Dotnet REST API backend and
+  Html frontend with PostgreSQL persistence.
 
-  Stack  ›  Spring Boot  ·  React  ·  PostgreSQL  ·  pgAdmin
+  Stack  ›  Dotnet  ·  HTML  ·  CSS  ·  JS  · PostgreSql
   Type   ›  Full-Stack  |  Separate Frontend & Backend Repos
 ```
 
@@ -99,7 +99,7 @@
   Full-stack TypeScript app with Node.js + MongoDB REST API backend
   and a React frontend. Features profiles, connections & feed.
 
-  Stack  ›  TypeScript  ·  Node.js  ·  MongoDB  ·  React  ·  CSS
+  Stack  ›  TypeScript  ·  Node.js  ·  MongoDB  ·  React  ·  Bootstrap
   Repo   ›  github.com/Pranay0702/Proxima
 ```
 
@@ -114,7 +114,7 @@
   Collaborative project — contributed to core features and
   Java/Spring Boot backend integration.
 
-  Stack  ›  Java  ·  Spring Boot
+  Stack  ›  Java  ·  JSP
   Repo   ›  github.com/Pranay0702/MovieHeram
 ```
 
@@ -192,7 +192,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pranay0702&theme=gitdimmed&column=6&margin-w=8&no-bg=true&no-frame=true" width="95%"/>
+<img src="https://gh-trophies.vercel.app/?username=Pranay0702&theme=gitdimmed&column=6&margin-w=8&no-bg=true&no-frame=true" width="95%"/>
 
 </div>
 
