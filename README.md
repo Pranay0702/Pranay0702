@@ -192,7 +192,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pranay0702&theme=gitdimmed&no-frame=false&column=6&margin-w=10" width="95%"/>
+[<img src="https://github-profile-trophy.vercel.app/?username=Pranay0702&theme=gitdimmed&no-frame=false&column=6&margin-w=10" width="95%"/>](https://github-profile-trophy.vercel.app/?username=Pranay0702&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10)
 
 </div>
 
