@@ -19,7 +19,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakyapranay7@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pranay.shakya_/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pranay.shakya.10/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-EF9F27?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pranay0702&color=EF9F27&style=flat-square&label=PROFILE+VIEWS)
 
@@ -33,90 +32,28 @@
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
 │   NAME      ›  Pranay Shakya                                     │
-│   HANDLE    ›  Pranay0702                                        │
 │   ROLE      ›  Software Engineer                                 │
 │   JOURNEY   ›  Intern (3 months) ──► Full-Time Engineer          │
 │   LOCATION  ›  Kathmandu, Nepal                                  │
-│   FOCUS     ›  Full-Stack Development  |  Data Analytics         │
-│   STACK     ›  MERN  |  Spring Boot  |  Java  |  .NET  |  KMP    │
+│   STACK     ›  MERN  |  Spring Boot  |  Java  |  .NET  |  KMP   │
 │   DATABASE  ›  PostgreSQL  |  MySQL  |  MongoDB                  │
-│   BUILD     ›  Maven  |  Gradle                                  │
 │   STATUS    ›  Building  ·  Learning  ·  Growing                 │
-│   UPCOMING  ›  Personal portfolio website                        │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-> Full-stack software engineer with 1+ year of professional experience building production-grade
-> web applications. Started as an intern and converted to full-time in under 3 months. Experienced
-> across the JVM ecosystem (Java, Kotlin, Spring Boot), MERN stack, .NET/MAUI, and Kotlin
-> Multiplatform. Passionate about clean architecture, scalable systems, and writing code that matters.
-
 ---
 
-## `> ls ./projects --detailed`
+## `> ls ./projects`
 
 <br/>
 
-<div align="center">
-
-### RentHub &nbsp;&nbsp; ![](https://img.shields.io/badge/ACTIVE-1D9E75?style=flat-square&labelColor=0d0d0d)
-
-</div>
-
-```
-  Property rental platform built end-to-end from scratch.
-  Users can list properties, search with filters, and manage
-  rental bookings. A full stack web application with RESTful API backend.
-
-  Stack  ›  Spring Boot  · React ·  Bootstrap  ·  PostgreSql
-  Type   ›  Full-Stack Web Application
-```
-
-<div align="center">
-
-### VehicleX &nbsp;&nbsp; ![](https://img.shields.io/badge/ACTIVE-1D9E75?style=flat-square&labelColor=0d0d0d)
-
-</div>
-
-```
-  Vehicle marketplace with smart filtering, listing management,
-  and a clean UI. Separate Dotnet REST API backend and
-  Html frontend with PostgreSQL persistence.
-
-  Stack  ›  Dotnet  ·  HTML  ·  CSS  ·  JS  · PostgreSql
-  Type   ›  Full-Stack  |  Separate Frontend & Backend Repos
-```
-
-<div align="center">
-
-### [Proxima](https://github.com/Pranay0702/Proxima) &nbsp;&nbsp; ![](https://img.shields.io/badge/COMPLETE-EF9F27?style=flat-square&labelColor=0d0d0d)
-
-</div>
-
-```
-  Professional networking platform — "Where Professionals Connect."
-  Full-stack TypeScript app with Node.js + MongoDB REST API backend
-  and a React frontend. Features profiles, connections & feed.
-
-  Stack  ›  TypeScript  ·  Node.js  ·  MongoDB  ·  React  ·  Bootstrap
-  Repo   ›  github.com/Pranay0702/Proxima
-```
-
-<div align="center">
-
-### [MovieHeram](https://github.com/Pranay0702/MovieHeram) &nbsp;&nbsp; ![](https://img.shields.io/badge/COLLABORATIVE-888780?style=flat-square&labelColor=0d0d0d)
-
-</div>
-
-```
-  Full-stack movie streaming platform with a rich catalog UI.
-  Collaborative project — contributed to core features and
-  Java/Spring Boot backend integration.
-
-  Stack  ›  Java  ·  JSP
-  Repo   ›  github.com/Pranay0702/MovieHeram
-```
+| Project | Stack | Status | Link |
+|---|---|---|---|
+| **RentHub** | Spring Boot · React · Bootstrap · PostgreSQL | ![](https://img.shields.io/badge/ACTIVE-1D9E75?style=flat-square&labelColor=0d0d0d) | — |
+| **VehicleX** | .NET · HTML · CSS · JS · PostgreSQL | ![](https://img.shields.io/badge/ACTIVE-1D9E75?style=flat-square&labelColor=0d0d0d) | — |
+| **Proxima** | TypeScript · Node.js · MongoDB · React | ![](https://img.shields.io/badge/COMPLETE-EF9F27?style=flat-square&labelColor=0d0d0d) | [repo](https://github.com/Pranay0702/Proxima) |
+| **MovieHeram** | Java · JSP · Spring Boot | ![](https://img.shields.io/badge/COLLAB-888780?style=flat-square&labelColor=0d0d0d) | [repo](https://github.com/Pranay0702/MovieHeram) |
 
 ---
 
@@ -184,15 +121,11 @@
 <br/>
 
 <img height="180em" src="https://github-readme-stats-lilac-seven-59.vercel.app/api?username=Pranay0702&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=dark&bg_color=0d0d0d&title_color=EF9F27&icon_color=1D9E75&text_color=d4a84b&border_color=EF9F27"/>
-<img height="180em" src="https://github-readme-stats-lilac-seven-59.vercel.app/api/top-langs/?username=Pranay0702&layout=compact&langs_count=8&hide_border=false&theme=dark&bg_color=0d0d0d&title_color=EF9F27&text_color=d4a84b&border_color=EF9F27&hide=jupyter%20notebook,assembly,html,css&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-lilac-seven-59.vercel.app/api/top-langs/?username=Pranay0702&layout=compact&langs_count=8&hide_border=false&theme=dark&bg_color=0d0d0d&title_color=EF9F27&text_color=d4a84b&border_color=EF9F27&hide=jupyter%20notebook,assembly,html,css,ruby,objective-c%2B%2B,aidl&count_private=true"/>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Pranay0702&theme=dark&background=0d0d0d&ring=EF9F27&fire=EF9F27&currStreakLabel=EF9F27&sideLabels=1D9E75&dates=888780&border=EF9F27&stroke=EF9F27&hide_border=false" width="56%"/>
-
-<br/><br/>
-
-<img src="https://gh-trophies.vercel.app/?username=Pranay0702&theme=gitdimmed&column=6&margin-w=8&no-bg=true&no-frame=true" width="95%"/>
 
 </div>
 
@@ -237,7 +170,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakyapranay7@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pranay.shakya_/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pranay.shakya.10/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-EF9F27?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio.com)
 
 </div>
 
